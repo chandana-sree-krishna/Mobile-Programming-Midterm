@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Midterm_Q2_FlashFrancais</string>
+    <string name="select_category_prompt">Select a category</string>
+    <string name="french_vocab_flashcards">French Vocabulary Flashcards</string>
+    <!-- Categories for French vocabulary -->
+    <string-array name="french_categories">
+        <item>Colors</item>
+        <item>Days</item>
+        <item>Greetings</item>
+        <item>Animals</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+</resources>
